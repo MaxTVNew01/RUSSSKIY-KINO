@@ -208,7 +208,7 @@ https://stream.zuno-tv.workers.dev/channel/9090/n3a70db35/index.m3u8
 
 
 #EXTINF:-1 xui-id="1" tvg-id="" tvg-name="Info" tvg-logo="" group-title="Фильмовые",Info
-https://m3u.usite.pro/1/demo.mp4
+https://maxtvnew.usite.pro/SaveVid_Net_AQNPRf0hlopb5zuimJAd59kYwN9UVPc8pq4Rab.mp4
 #EXTINF:-1 group-title="Фильмовые",Amedia HIT
 https://flussonic.mkpnet.ru/tv-8f04998179283ee5/video.m3u8
 #EXTINF:-1 group-title="Фильмовые",Amedia 2
@@ -933,7 +933,7 @@ http://video.entar.workers.dev/?key=k70707k&id=44
 
 
 #EXTINF:-1 xui-id="1" tvg-id="" tvg-name="Info" tvg-logo="" group-title="Кинозал (ТЕСТ)",Info
-https://github.com/iptv-free/TV/releases/download/demo/demo2.mp4
+https://maxtvnew.usite.pro/SaveVid_Net_AQNPRf0hlopb5zuimJAd59kYwN9UVPc8pq4Rab.mp4
 #EXTINF:-1 group-title="Кинозал (ТЕСТ)",Cartoons_90
 http://178.63.98.119:8000/play/a00h/index.m3u8
 #EXTINF:-1 group-title="Кинозал (ТЕСТ)",Cartoons_BIG
@@ -1085,7 +1085,7 @@ http://178.63.98.119:8000/play/a01f/index.m3u8
 
 
 #EXTINF:-1 xui-id="1" tvg-id="" tvg-name="Info" tvg-logo="" group-title="Спортивные",Info
-https://m3u.usite.pro/1/demo.mp4
+https://maxtvnew.usite.pro/SaveVid_Net_AQNPRf0hlopb5zuimJAd59kYwN9UVPc8pq4Rab.mp4
 #EXTINF:-1 group-title="Спортивные",Extreme Sports
 https://flussonic.mkpnet.ru/tv-1a9441fd32d63873/video.m3u8
 #EXTINF:-1 group-title="Спортивные",КХЛ
@@ -1365,8 +1365,8 @@ https://flussonic.mkpnet.ru/tv-181e3f7698288892/video.m3u8
 
 
 
-#EXTINF:-1 group-title="CloudFlare",Info: ZunoTV
-https://m3u.usite.pro/1/demo.mp4
+#EXTINF:-1 group-title="CloudFlare",Info: MaxTV
+https://maxtvnew.usite.pro/SaveVid_Net_AQNPRf0hlopb5zuimJAd59kYwN9UVPc8pq4Rab.mp4
 #EXTINF:-1 group-title="CloudFlare",Наука
 http://hls127.freeott.top:8080/NAUKA/mono.m3u8
 #EXTINF:-1 group-title="CloudFlare",RTG TV
@@ -1457,7 +1457,7 @@ http://hls127.freeott.top:8080/Football/mono.m3u8
 http://hls127.freeott.top:8080/Da_Vinci_Learning/mono.m3u8
 
 #EXTINF:-1 group-title="КиноСтрим Not24/7",Info: info
-https://m3u.usite.pro/1/demo.mp4
+https://maxtvnew.usite.pro/SaveVid_Net_AQNPRf0hlopb5zuimJAd59kYwN9UVPc8pq4Rab.mp4
 #EXTINF:-1 group-title="КиноСтрим Not24/7",ВК Кино 2ᴴᴰ
 rtmp://vkvsd202.okcdn.ru/playback/10472252320626?stkn=55ZiY3uqOcLbjh8YLZ654EGxTQCPkjoczCP4KcuqIiVY4Xvydx7GLhpzKW3_9I0RZtVa3gKqHM4&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
 #EXTINF:-1 group-title="КиноСтрим Not24/7",ВК Кино и сериалыᴴᴰ
@@ -2156,7 +2156,7 @@ https://st1.uzdigital.tv/TTV_Musiqa/tracks-v1a1a2/mono.m3u8
 https://fl.biztv.media/MiMiTV_1080/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Украина",Info: info
-https://m3u.usite.pro/1/demo.mp4
+https://maxtvnew.usite.pro/SaveVid_Net_AQNPRf0hlopb5zuimJAd59kYwN9UVPc8pq4Rab.mp4
 
 #EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00578.png?1712838085" group-title="Украина",Cinema Megahit HD
 https://prosto.zuno-tv.workers.dev/stream/id578/video.m3u8
